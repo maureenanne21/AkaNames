@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Noto+Sans+JP:wght@300&display=swap');
+body{
+    background-image: url( ../akan/images/ghana2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-style: normal;
+    font-family: 'Noto Sans JP', sans-serif;
+}
